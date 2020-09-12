@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Christopher DeRoche 👋
+I am a senior in Computer Science at Indiana University-Bloomington graduating in May 2021 who is passionate about programming. All of my personal projects can be found here on GitHub. I am currently looking for full-time software engineering roles.
+
+[![Chris with Guardian Angel Poster](images/guardian-angel-chris.jpg)](https://github.com/compact-disc/GuardianAngel)
+
+#### [My Resume](http://cdero.com/resume.html)
+
+#### Get in touch
+- Twitter: https://twitter.com/dr_deroche
+- Personal Site: http://cdero.com/
 
 <!--
 **compact-disc/compact-disc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
