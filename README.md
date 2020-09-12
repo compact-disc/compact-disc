@@ -1,25 +1,16 @@
 ### Hi there, I'm Christopher DeRoche 👋
-I am a senior in Computer Science at Indiana University-Bloomington graduating in May 2021 who is passionate about programming. All of my personal projects can be found here on GitHub. I am currently looking for full-time software engineering roles.
-
-[![Chris with Guardian Angel Poster](images/guardian-angel-chris.jpg)](https://github.com/compact-disc/GuardianAngel)
+I am a senior in Computer Science at Indiana University-Bloomington graduating in May 2021 who is passionate about programming. My personal projects can be found here on GitHub. I am currently looking for full-time software engineering roles.
 
 #### [My Resume](http://cdero.com/resume.html)
 
+#### My Favorite Projects:
+- [Guardian Angel](https://github.com/compact-disc/GuardianAngel)
+  - My independent study project at Indiana University from Fall 2019 to Spring 2020.
+- [Status](https://github.com/compact-disc/Status)
+  - Spring Boot application to monitor my data center operations.
+- [Auto Clicker](https://github.com/compact-disc/AutoClicker)
+  - GUI based application to automatically run a Windows mouse for games.
+
 #### Get in touch
-- Twitter: https://twitter.com/dr_deroche
-- Personal Site: http://cdero.com/
-
-<!--
-**compact-disc/compact-disc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Personal Site: http://cdero.com
+- LinkedIn: https://www.linkedin.com/in/chrismderoche
