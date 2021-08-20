@@ -1,5 +1,5 @@
 ### Hi there, I'm Christopher DeRoche 👋
-I am a senior in Computer Science at Indiana University-Bloomington graduating in May 2021 who is passionate about programming. My personal projects can be found here on GitHub. I am currently looking for full-time software engineering roles.
+My personal projects can be found here on GitHub.
 
 #### [My Resume](http://cdero.com/resume.html)
 
@@ -14,7 +14,7 @@ I am a senior in Computer Science at Indiana University-Bloomington graduating i
   - GUI based application to automatically run a Windows mouse for games.
 
 #### Data Center:
-My data center is used for cdero.com, status.cdero.com, MariaDB, Apache, game servers, Plex Media, VMware ESXi, FreeNAS, pfSense, and OpenVPN. I run it in my spare time mostly for practice and enjoyment. It makes deploying my projects a bit easier since it is always on. You can find additional information [here](http://cdero.com/datacenter.html).
+My data center is used for cdero.com, status.cdero.com, MariaDB, Apache, game servers, Plex Media, VMware ESXi, FreeNAS, pfSense, and OpenVPN. I run it in my spare time mostly for practice and enjoyment. It makes deploying my projects a bit easier since it is always on. You can find additional information [here](https://cdero.com/datacenter.html).
 
 #### My Programming Languages:
 - Java ⭐
@@ -28,5 +28,5 @@ My data center is used for cdero.com, status.cdero.com, MariaDB, Apache, game se
 Looking to add C++ in the near future.
 
 #### Get in touch
-- Personal Site: http://cdero.com
+- Personal Site: https://cdero.com
 - LinkedIn: https://www.linkedin.com/in/chrismderoche
