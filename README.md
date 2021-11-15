@@ -2,7 +2,8 @@
 Writing code and playing in the cloud at Slalom.
 
 #### Professional Certifications
-- [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/a8b963d9-cba0-493c-ae0a-ff2f77bb61fc?source=linked_in_profile)
+- [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/a8b963d9-cba0-493c-ae0a-ff2f77bb61fc)
+- [AWS Certified Developer - Associate](https://www.credly.com/badges/888cbe33-f6b4-48e1-b73b-895a7445847e)
 
 #### My Programming Languages:
 - Java ⭐
