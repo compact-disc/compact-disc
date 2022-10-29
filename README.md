@@ -1,5 +1,4 @@
 ### Hi there, I'm Christopher DeRoche 👋
-Writing code and playing in the cloud at Slalom.
 
 #### Professional Certifications
 - [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/a8b963d9-cba0-493c-ae0a-ff2f77bb61fc)
