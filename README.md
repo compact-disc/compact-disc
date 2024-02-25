@@ -1,16 +1,20 @@
 ### Hi there, I'm Christopher DeRoche 👋
+I am a Software Engineer that specializes in the C#/Dotnet/ASP.NET Core space.
 
 #### Professional Certifications
 - [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/a8b963d9-cba0-493c-ae0a-ff2f77bb61fc)
 - [AWS Certified Developer - Associate](https://www.credly.com/badges/888cbe33-f6b4-48e1-b73b-895a7445847e)
 
 #### My Programming Languages:
-- Java ⭐
-- C#
+- C# ⭐
+- Java
 - Python
 - C
-- Swift
 - SQL
+
+#### Learn List:
+- Go
+- Rust
 
 #### My Favorite Projects:
 - [Gamer Bot](https://github.com/compact-disc/GamerBot)
